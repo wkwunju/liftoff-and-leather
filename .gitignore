@@ -1,0 +1,7 @@
+third_party/
+dist/
+*.o
+*.a
+.DS_Store
+*.swp
+.emscripten_cache/
